@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi there 👋, i'm Milen  
+#### ✨ Perth-based tech tinkerer ✨
+
+
+
+
 
 <!--
 **HalcyonEcho/HalcyonEcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
