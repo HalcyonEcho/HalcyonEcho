@@ -1,5 +1,6 @@
 ### Hi there 👋, i'm Milen  
-#### ✨ Perth-based tech tinkerer ✨
+#### Perth-based tech tinkerer
+
 
 
 
